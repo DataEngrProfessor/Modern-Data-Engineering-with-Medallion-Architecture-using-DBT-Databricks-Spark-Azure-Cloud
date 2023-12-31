@@ -22,6 +22,3 @@ Try running the following commands:
 * [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/)
 * [Azure Data Lake Storage Gen2](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
 
-### Youtube Video
-[![Modern Data Engienering](https://img.youtube.com/vi/divjURi-low/0.jpg)](https://youtu.be/divjURi-low)
-
